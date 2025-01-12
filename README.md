@@ -4,7 +4,7 @@
 <h3 align="center">Completed some projects on Spring-Boot and WebTechnology.</h3>
  
 
-- 🌱 I’m currently learning **Spring Boot And Flutter Advanced Concepts**
+- 🌱 Technology Used **Spring Boot, React, Html, Css and JavaScript **
 
 - 💬 Ask me about -Java,SpringBoot,Web Based Projects Using React
 
